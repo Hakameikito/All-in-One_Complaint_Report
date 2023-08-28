@@ -1,7 +1,9 @@
 
 # All-in-One Complaint Report
 
-This project is a demo of a sophisticated complaint report I have built using Python, Plotly, Pandas and more. The code is written in Jupyter Notebook, feel free to download it and have a look.
+This project is a demo of a sophisticated complaint report I have built using Python, Plotly, Pandas and more. The code is written in Jupyter Notebook, feel free to download it and have a look.<br><br>
+🔴 <b>DATA USED IN THIS PROJECT HAS BEEN RANDOMLY GENERATED SOLELY FOR DEMO PURPOSES</b> 🔴
+
 
 
 ## Features
